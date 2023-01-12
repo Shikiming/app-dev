@@ -1,2 +1,8 @@
-# app-dev
-My first repository
+#FavoriteSeries
+
+**ONE PIECE**
+**NARUTO**
+**BOKU NO PICO**
+**BLACK BIBLE**
+**OVERFLOW**
+**YOSUGA NO SORA**
